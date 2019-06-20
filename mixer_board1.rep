@@ -1,0 +1,100 @@
+Data Expoted from: C:/Users/Ryan/Documents/eagle/projects/Mixer/mixer_board1.sch
+with: c:/EAGLE 9.4.1/examples/ulps/examples/statistic-sch.ulp
+at: 6/2/2019 4:45 PM
+EAGLE Version 9.4.1 Copyright (c) 1988-2019 Autodesk, Inc.
+
+used layers 6
+
+91 Nets
+93 Pins
+94 Symbols
+95 Names
+96 Values
+99 SpiceOrder
+_________________________
+
+
+
+
+============================
+
+----------------------------
+LAYER
+Nb.	Name	Used
+ 88	SimResults	0
+ 89	SimProbes	0
+ 90	Modules	0
+ 91	Nets	1
+ 92	Busses	0
+ 93	Pins	1
+ 94	Symbols	1
+ 95	Names	1
+ 96	Values	1
+ 97	Info	0
+ 98	Guide	0
+ 99	SpiceOrder	1
+
+----------------------------
+CLASS
+# - Name	min. Width	Clearance	min. Drill	Used
+0 - default	0.0000 	0.0000 	0.0000 	54  
+
+
+----------------------------
+LIBRARY	Quant.
+resistor	38  
+supply1	45  
+linear	1   
+con-jack	1   
+relay	4   
+led	5   
+biblib	19  
+con-lsta	1   
+TL072	2   
+
+PACKAGE	Quant.
+E1,8-4	2   
+C0805	7   
+TO252	1   
+DCJ0202	1   
+G5V1	3   
+TQ2	1   
+CHIPLED_1206	5   
+PTV09A	3   
+M0805	28  
+R0805	1   
+FE05-1	1   
+OS102011	1   
+PTA4553	3   
+T6WJ2NGQR	4   
+PS45M	1   
+STX-3120	5   
+SO14	1   
+RK12	1   
+DIP794W45P254L1060H508Q8	2   
+
+DEVICE	Quant.
+CPOL-USE1.8-4	2   
+C-USC0805	7   
+7824DT	1   
+DCJ0202	1   
+G5V1	3   
+TQ2-5V	1   
+LEDCHIPLED_1206	5   
+PTV09A	3   
+R-US_M0805	28  
+R-US_R0805	1   
+FE05-1	1   
+OS102011	1   
+PTA4553	3   
+T6WJNQR	4   
+PS45M	1   
+STX-3120-3B	5   
+PIC16F18426	1   
+RK12	1   
+TL072	2   
+
+
+----------------------------
+
+End report
